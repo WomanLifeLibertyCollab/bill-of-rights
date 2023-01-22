@@ -4,13 +4,16 @@ This repository contains the document outlining the fundamental rights and freed
 
 ## Document Information
 - Format: Microsoft Word Document
-- File name: human-rights-declaration.docx
+- File name: bill-of-rights.docx
 
 ## Purpose
 The purpose of this document is to serve as a reminder of the inherent dignity and worth of every human being and to provide guidance for the progressive government to ensure the protection of human rights for all citizens.
 
 ## How to Use
-This document can be used as a reference for the progressive government, as a guide for human rights activists, or as an educational resource for individuals interested in human rights.
+The file in this repository, named "bill-of-rights.docx", can be used as a reference guide for implementing and improving human rights in a progressive Iranian government.
+
+To use the file, you can download and open it using a word processor such as Microsoft Word or Google Docs. You can read through the document and edit it. 
+To stay up to date with any changes or updates made to this repository, you can periodically check the repository and pull any new commits to your local copy by running `git pull` command.
 
 ## Additional Resources
 - [Universal Declaration of Human Rights (1948)](https://www.un.org/en/universal-declaration-human-rights/)
